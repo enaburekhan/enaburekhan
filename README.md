@@ -2,7 +2,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=enaburekhan&theme=highcontrast&show_icons=true&count_private=true)
 
 <h2> Hi, I'm Eric Enaburekhan</h2>
-<!-- <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"> -->
 <p><em>Remote Full-stack software developer ready for a new experience!</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eric%20Enaburekhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericenaburekhan/)](https://www.linkedin.com/in/eric-enaburekhan/)
@@ -21,7 +20,7 @@ const ericEnaburekhan = {
   challenge: "I am honing my Javascript skills and picking up React",
   funFacts: ['I have a year of remote work experience with devs 
   from all over the world', 
-  'Have an offer? pls send a message!']
+  'Please send a message if you have an offer']
 }
 ```
 
